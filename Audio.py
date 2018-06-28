@@ -30,12 +30,9 @@ data=''
 direc=''
 data_send=''
 count=0
-your_email = 'shashankmangal.com@gmail.com'
-#'youremail@emai.com'
-your_pass = '121211212'
-#'y0u@rP44s'
-send_email = 'shashankmangal2@gmail.com'
-#'OtherEmail@email.com'
+your_email = 'youremail@emai.com'
+your_pass = 'y0u@rP44s'
+send_email = 'OtherEmail@email.com'
 
 
 
