@@ -2,7 +2,7 @@
 
 Simple way to use
 
-# for local storage just use
+# For local storage just use
 > python Audio.py
 
 
