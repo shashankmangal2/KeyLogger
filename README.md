@@ -2,11 +2,11 @@
 
 Simple way to use
 
-# For local storage just use
+<h2>For local storage just use</h2>
 > python Audio.py
 
 
-# For Sending an email to your ID
+<h2>For Sending an email to your ID</h2>
 > python Audio.py email
 
 Users have to download these modules before running
