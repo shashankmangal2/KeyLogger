@@ -11,8 +11,11 @@ Simple way to use
 
 Users have to download these modules before running
 Include module
+
 1: pyHook
+
 2: win32
+
 3: pyautogui
 
-Created By: Shashank Mangal, Prabudh Bhadwaj, Abhinandam Kumar
+Created By: Shashank Mangal(WarMarX)
